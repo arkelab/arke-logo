@@ -1,4 +1,4 @@
-# <img src="IMG_2151.jpeg" width="26" height="26" align="center"> ARKE ロゴ画像一覧
+# <img src="IMG_2154.jpeg" width="75" height="75" align="center"> ロゴ画像一覧
 MIT Licenseに則って(コピーライト等)使用してください。SVGでの配布は検討しておりません。現在、jpegのみとなっております。
 ## ARKEのロゴ一覧
 ### ARKE 正方形ロゴ
