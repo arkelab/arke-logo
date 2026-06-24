@@ -1,6 +1,6 @@
 # <img src="IMG_2154.jpeg" width="75" height="75" align="center"> ロゴ画像一覧
 
-### <a href="IMG_2151.jpeg" download><b>📥 [ ここからダウンロード ]</b>
+### <a href="ARKE_logo.zip" download><b>📥 [ ここからダウンロード ]</b>
 
 ---
 
